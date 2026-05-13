@@ -1,4 +1,4 @@
-# German Traffic Sign Recognition with HOG+SVM
+# Real-Time Traffic Sign Recognition using HOG+SVM
 
 ## Overview
 In this project, I implemented a traffic sign recognition system using HOG (Histogram of Oriented Gradients) feature extraction combined with SVM (Support Vector Machine) classification. This approach provides an efficient and accurate method for recognizing traffic signs from the German Traffic Sign Dataset.
